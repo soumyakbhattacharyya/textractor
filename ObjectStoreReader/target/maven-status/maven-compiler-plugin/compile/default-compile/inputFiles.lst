@@ -1,0 +1,12 @@
+C:\Soumyak\workspace\ObjectStoreReader\src\main\java\com\rubiconred\ip\accounting\automation\service\DynamoDBService.java
+C:\Soumyak\workspace\ObjectStoreReader\src\main\java\com\rubiconred\ip\accounting\automation\model\DocumentInformationExtractionJob.java
+C:\Soumyak\workspace\ObjectStoreReader\src\main\java\com\rubiconred\ip\accounting\automation\model\S3DocumentMetadata.java
+C:\Soumyak\workspace\ObjectStoreReader\src\main\java\com\rubiconred\ip\accounting\automation\manager\DynamoDBManager.java
+C:\Soumyak\workspace\ObjectStoreReader\src\main\java\com\rubiconred\ip\accounting\automation\dao\InvoiceProcessingStateDaoImpl.java
+C:\Soumyak\workspace\ObjectStoreReader\src\main\java\com\rubiconred\ip\accounting\automation\util\Constants.java
+C:\Soumyak\workspace\ObjectStoreReader\src\main\java\com\rubiconred\ip\accounting\automation\dao\InvoiceProcessingStateDao.java
+C:\Soumyak\workspace\ObjectStoreReader\src\main\java\com\rubiconred\ip\accounting\automation\LambdaFunctionHandler.java
+C:\Soumyak\workspace\ObjectStoreReader\src\main\java\com\rubiconred\ip\accounting\automation\util\EXECUTION_STATE.java
+C:\Soumyak\workspace\ObjectStoreReader\src\main\java\com\rubiconred\ip\accounting\automation\service\Service.java
+C:\Soumyak\workspace\ObjectStoreReader\src\main\java\com\rubiconred\ip\accounting\automation\service\TextractService.java
+C:\Soumyak\workspace\ObjectStoreReader\src\main\java\com\rubiconred\ip\accounting\automation\model\factory\RequestFactory.java

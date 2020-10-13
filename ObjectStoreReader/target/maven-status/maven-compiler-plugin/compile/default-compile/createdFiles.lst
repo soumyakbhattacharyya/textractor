@@ -1,0 +1,12 @@
+com\rubiconred\ip\accounting\automation\dao\InvoiceProcessingStateDao.class
+com\rubiconred\ip\accounting\automation\model\DocumentInformationExtractionJob.class
+com\rubiconred\ip\accounting\automation\model\S3DocumentMetadata.class
+com\rubiconred\ip\accounting\automation\manager\DynamoDBManager.class
+com\rubiconred\ip\accounting\automation\model\factory\RequestFactory.class
+com\rubiconred\ip\accounting\automation\util\Constants.class
+com\rubiconred\ip\accounting\automation\service\Service.class
+com\rubiconred\ip\accounting\automation\service\DynamoDBService.class
+com\rubiconred\ip\accounting\automation\service\TextractService.class
+com\rubiconred\ip\accounting\automation\dao\InvoiceProcessingStateDaoImpl.class
+com\rubiconred\ip\accounting\automation\LambdaFunctionHandler.class
+com\rubiconred\ip\accounting\automation\util\EXECUTION_STATE.class
